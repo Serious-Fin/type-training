@@ -16,9 +16,19 @@ When the whole sentence is green, use `Enter` to get a new sentence.
 
 ## Installation
 
+### Download binary
+
+Download a [binary for your platform](https://github.com/Serious-Fin/type-training/releases/tag/v1.0.0) from release page.
+
+On linux/mac you might need to add execution permission to file:
+
+```zsh
+chmod +x <binary name>
+```
+
 ### Build from source
 
-Open the console window and clone repository locally:
+Open a console window and clone repository locally:
 
 ```zsh
 git clone https://github.com/Serious-Fin/type-training.git
